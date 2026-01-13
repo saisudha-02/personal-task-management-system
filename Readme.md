@@ -183,7 +183,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Naga Teja Reddy**
+**Sai Sudha Sabat**
 Full Stack Developer Intern Applicant
 
 ---
